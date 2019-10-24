@@ -2,9 +2,8 @@ title: Todo
 modifier: John
 
 Why won't this show up
-<input type="checkbox">Throw laundry into big suitcase</input>
-<input type="checkbox">EA Quiz 3 print out </input>
-<input type="checkbox">Check status of chase portfolio account</input>
-<input type="checkbox">Hang up curtain rods</input>
-<input type="checkbox">Javascript Homework Music Player</input>
-
+<input type="checkbox">Throw laundry into big suitcase
+<input type="checkbox">EA Quiz 3 print out 
+<input type="checkbox">Check status of chase portfolio account
+<input type="checkbox">Hang up curtain rods
+<input type="checkbox">Javascript Homework Music Player
