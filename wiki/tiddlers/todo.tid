@@ -3,6 +3,8 @@ modifier: John
 
 Why won't this show up
 
+<input type="checkbox"> Buy a car so I can visit friends in Ohio
+
 <input type="checkbox"> Update mailing address on everything
 
 <input type="checkbox"> Update resume
