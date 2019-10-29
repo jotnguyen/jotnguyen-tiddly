@@ -1,11 +1,9 @@
 title: Todo
 modifier: John
 
-Why won't this show up
+<input type="checkbox"> Activate SES visa cards
 
-Activate SES visa cards
-
-Send in receipts to financial aid thnx christopher
+<input type="checkbox"> Send in receipts to financial aid thnx christopher
 
 <input type="checkbox"> Buy a car so I can visit friends in Ohio
 
@@ -15,9 +13,8 @@ Send in receipts to financial aid thnx christopher
 
 <input type="checkbox"> Make a list of companies to apply to
 
-<input type="checkbox"> Msg David and Victor to fill out when2meet
+<input type="checkbox"> Msg housing to fill out when2meet for next meeting
 
-<input type="checkbox">Throw laundry into big suitcase
 
 <input type="checkbox">EA Quiz 3 print out 
 
@@ -25,11 +22,9 @@ Send in receipts to financial aid thnx christopher
 
 <input type="checkbox">Hang up curtain rods
 
-<input type="checkbox">Javascript Homework Music Player
 
 <input type="checkbox">Sell saxophone on Ebay
 
 <input type="checkbox"> look for housing
 
 <input type="checkbox"> put look for subletters on agenda
-
