@@ -10,4 +10,9 @@ type: text/vnd.tiddlywiki
 
 {{Todo}}
 
-<iframe src="https://calendar.google.com/calendar/embed?src=johnnguyen2021%40u.northwestern.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<html>
+  <table width="96%" style="border:none;margin:1px;background:transparent;clear:both;">
+    <iframe src="https://calendar.google.com/calendar/embed?src=johnnguyen2021%40u.northwestern.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </table>
+</html>
+
